@@ -2,9 +2,9 @@
     WELCOME !
 </h1>
 
-Developed a few public (and private) projects, most of them are web app using React and API (mostly working with Bungie API). I always like to learn and discover new things and tech.
+Developed a few public (and private) projects, most of them are web app using React and API. I always like to learn and discover new things and tech.
 
-Learn some new languages from time to time but as everyone now `A jack of all trades is a master of none`, so I tend to improve on what I already know (Software developpement and web applications).
+Learn some new languages from time to time but as everyone now `A jack of all trades is a master of none`, so I tend to improve on what I already know.
 
 <h2 align="center">
     <b>SOCIALS</b>
